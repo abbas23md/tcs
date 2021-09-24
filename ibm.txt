@@ -1,3 +1,5 @@
-iam writin
+ianew ly added
+:wq
+:wm writin
 ok
 
